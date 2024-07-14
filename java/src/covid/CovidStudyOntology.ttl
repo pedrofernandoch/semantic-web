@@ -1,0 +1,236 @@
+@prefix : <http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19> .
+
+<http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19> rdf:type owl:Ontology ;
+                                                                      rdfs:comment """Competency Questions (examples)
+
+O orçamento recebido por um Estado é proporcional ao número de casos?
+O orçamento recebido por um Estado é proporcional à população?""" .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#has_covid_cases
+:has_covid_cases rdf:type owl:ObjectProperty ;
+                 rdfs:domain :State ;
+                 rdfs:range :Covid_cases .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#has_covid_deaths
+:has_covid_deaths rdf:type owl:ObjectProperty ;
+                  rdfs:domain :State ;
+                  rdfs:range :Covid_deaths .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#has_immunized_pop
+:has_immunized_pop rdf:type owl:ObjectProperty ;
+                   rdfs:domain :State ;
+                   rdfs:range :Vaccinated_pop .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#has_population
+:has_population rdf:type owl:ObjectProperty ;
+                rdfs:domain :State ;
+                rdfs:range :Population .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#received_income
+:received_income rdf:type owl:ObjectProperty ;
+                 rdfs:domain :State ;
+                 rdfs:range :Federal_income .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#uf_name
+:uf_name rdf:type owl:ObjectProperty ,
+                  owl:FunctionalProperty ;
+         rdfs:domain :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#vaccine_name
+:vaccine_name rdf:type owl:ObjectProperty ,
+                       owl:FunctionalProperty ;
+              rdfs:domain :Vaccine .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Covid_cases
+:Covid_cases rdf:type owl:Class ;
+             rdfs:comment "Estava como subclasse de Population, mas foi deixado como estatística à parte" .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Covid_deaths
+:Covid_deaths rdf:type owl:Class ;
+              rdfs:comment "Estava como subclasse de Population, mas não fazia muito sentido" .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Federal_income
+:Federal_income rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Population
+:Population rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#State
+:State rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Vaccinated_pop
+:Vaccinated_pop rdf:type owl:Class ;
+                rdfs:subClassOf :Population ;
+                rdfs:comment "OK ser subclasse de Population?" .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Vaccine
+:Vaccine rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Acre
+:Acre rdf:type owl:NamedIndividual ,
+               :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Alagoas
+:Alagoas rdf:type owl:NamedIndividual ,
+                  :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Amapá
+:Amapá rdf:type owl:NamedIndividual ,
+                :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Amazonas
+:Amazonas rdf:type owl:NamedIndividual ,
+                   :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Bahia
+:Bahia rdf:type owl:NamedIndividual ,
+                :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Ceará
+:Ceará rdf:type owl:NamedIndividual ,
+                :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#DistritoFederal
+:DistritoFederal rdf:type owl:NamedIndividual ,
+                          :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#EspíritoSanto
+:EspíritoSanto rdf:type owl:NamedIndividual ,
+                        :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Goiás
+:Goiás rdf:type owl:NamedIndividual ,
+                :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Maranhão
+:Maranhão rdf:type owl:NamedIndividual ,
+                   :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#MatoGrosso
+:MatoGrosso rdf:type owl:NamedIndividual ,
+                     :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#MatoGrossodoSul
+:MatoGrossodoSul rdf:type owl:NamedIndividual ,
+                          :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#MinasGerais
+:MinasGerais rdf:type owl:NamedIndividual ,
+                      :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Paraná
+:Paraná rdf:type owl:NamedIndividual ,
+                 :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Paraíba
+:Paraíba rdf:type owl:NamedIndividual ,
+                  :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Pará
+:Pará rdf:type owl:NamedIndividual ,
+               :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Pernambuco
+:Pernambuco rdf:type owl:NamedIndividual ,
+                     :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Piauí
+:Piauí rdf:type owl:NamedIndividual ,
+                :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#RioGrandedoNorte
+:RioGrandedoNorte rdf:type owl:NamedIndividual ,
+                           :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#RioGrandedoSul
+:RioGrandedoSul rdf:type owl:NamedIndividual ,
+                         :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#RiodeJaneiro
+:RiodeJaneiro rdf:type owl:NamedIndividual ,
+                       :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Rondônia
+:Rondônia rdf:type owl:NamedIndividual ,
+                   :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Roraima
+:Roraima rdf:type owl:NamedIndividual ,
+                  :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#SantaCatarina
+:SantaCatarina rdf:type owl:NamedIndividual ,
+                        :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Sergipe
+:Sergipe rdf:type owl:NamedIndividual ,
+                  :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#SãoPaulo
+:SãoPaulo rdf:type owl:NamedIndividual ,
+                   :State .
+
+
+###  http://www.semanticweb.org/malic/ontologies/2022/11/study_covid-19#Tocantins
+:Tocantins rdf:type owl:NamedIndividual ,
+                    :State .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

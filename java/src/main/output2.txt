@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------------------------
+| person                                         | parent                                          |
+====================================================================================================
+| _:b0                                           | <http://www.ifi.uio.no/IN3060/simpsons#Abraham> |
+| _:b1                                           | <http://www.ifi.uio.no/IN3060/simpsons#Abraham> |
+| <http://www.ifi.uio.no/IN3060/simpsons#Bart>   | <http://www.ifi.uio.no/IN3060/simpsons#Homer>   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Lisa>   | <http://www.ifi.uio.no/IN3060/simpsons#Homer>   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Maggie> | <http://www.ifi.uio.no/IN3060/simpsons#Homer>   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Bart>   | <http://www.ifi.uio.no/IN3060/simpsons#Marge>   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Lisa>   | <http://www.ifi.uio.no/IN3060/simpsons#Marge>   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Maggie> | <http://www.ifi.uio.no/IN3060/simpsons#Marge>   |
+| _:b2                                           | <http://www.ifi.uio.no/IN3060/simpsons#Mona>    |
+----------------------------------------------------------------------------------------------------

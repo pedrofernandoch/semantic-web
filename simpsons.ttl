@@ -1,0 +1,102 @@
+# Assignment 1
+
+#====Exercise 1====#
+#Define prefixes
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix fam: <http://www.ifi.uio.no/IN3060/family#> .
+@prefix sim: <http://www.ifi.uio.no/IN3060/simpsons#> .
+
+#====Exercise 2====#
+# Define people
+sim:Homer rdf:type foaf:Person . 
+sim:Marge rdf:type foaf:Person . 
+sim:Lisa rdf:type foaf:Person . 
+sim:Bart rdf:type foaf:Person . 
+sim:Maggie rdf:type foaf:Person .
+
+# Define full names
+sim:Homer foaf:name "Homer Simpson" .
+sim:Marge foaf:name "Marge Simpson" . 
+sim:Lisa foaf:name "Lisa Simpson" . 
+sim:Bart foaf:name "Bart Simpson" . 
+sim:Maggie foaf:name "Maggie Simpson" .
+
+# Define ages
+sim:Homer foaf:age "36"^^xsd:int .
+sim:Marge foaf:age "34"^^xsd:int . 
+sim:Lisa foaf:age "8"^^xsd:int . 
+sim:Bart foaf:age "10"^^xsd:int . 
+sim:Maggie foaf:age "1"^^xsd:int .
+
+#====Exercise 3====#
+# Define Simpsons family and their relationships
+sim:Simpsons rdf:type fam:Family .
+sim:Simpsons fam:hasFamilyMember sim:Homer .
+sim:Simpsons fam:hasFamilyMember sim:Marge .
+sim:Simpsons fam:hasFamilyMember sim:Lisa .
+sim:Simpsons fam:hasFamilyMember sim:Bart .
+sim:Simpsons fam:hasFamilyMember sim:Maggie .
+
+# Marrige
+sim:Homer fam:hasSpouse sim:Marge .
+sim:Marge fam:hasSpouse sim:Homer .
+
+# Bart relations
+sim:Bart fam:hasParent sim:Homer .
+sim:Bart fam:hasParent sim:Marge .
+sim:Bart fam:hasFather sim:Homer .
+sim:Bart fam:hasMother sim:Marge .
+sim:Bart fam:hasSister sim:Lisa .
+sim:Bart fam:hasSister sim:Maggie .
+
+# Lisa relations
+sim:Lisa fam:hasParent sim:Homer .
+sim:Lisa fam:hasParent sim:Marge .
+sim:Lisa fam:hasFather sim:Homer .
+sim:Lisa fam:hasMother sim:Marge .
+sim:Lisa fam:hasBrother sim:Bart .
+sim:Lisa fam:hasSister sim:Maggie .
+
+# Maggie relations
+sim:Maggie fam:hasParent sim:Homer .
+sim:Maggie fam:hasParent sim:Marge .
+sim:Maggie fam:hasFather sim:Homer .
+sim:Maggie fam:hasMother sim:Marge .
+sim:Maggie fam:hasBrother sim:Bart .
+sim:Maggie fam:hasSister sim:Lisa .
+
+#====Exercise 4====#
+# Define Maggie grandFather
+sim:Maggie fam:hasParent [
+    fam:hasParent sim:Abraham ;
+    fam:hasFather sim:Abraham ;
+] .
+
+# Define Maggie grandMother
+sim:Maggie fam:hasParent [
+    fam:hasParent sim:Mona ;
+    fam:hasMother sim:Mona ;
+] .
+
+#====Exercise 5====#
+# Define Lisa aunts
+sim:Patty fam:hasSister sim:Selma .
+sim:Selma fam:hasSister sim:Patty .
+sim:Lisa fam:hasParent [
+    fam:hasSister sim:Patty ;
+    fam:hasSister sim:Selma ;
+] .
+
+# Define Lisa uncle
+sim:Lisa fam:hasParent [
+    fam:hasBrother sim:Herb ;
+] .
+
+#====Exercise 6====#
+# Define Marge's father-in-law
+sim:Marge fam:hasSpouse [
+    fam:hasParent sim:Abraham ;
+    fam:hasFather sim:Abraham ;
+] .

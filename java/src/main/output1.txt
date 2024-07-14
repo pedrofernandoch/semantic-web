@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+| person                                          | name             |
+======================================================================
+| _:b0                                            |                  |
+| _:b1                                            |                  |
+| _:b2                                            |                  |
+| _:b3                                            |                  |
+| _:b4                                            |                  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Abraham> |                  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Bart>    | "Bart Simpson"   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Herb>    |                  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Homer>   | "Homer Simpson"  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Lisa>    | "Lisa Simpson"   |
+| <http://www.ifi.uio.no/IN3060/simpsons#Maggie>  | "Maggie Simpson" |
+| <http://www.ifi.uio.no/IN3060/simpsons#Marge>   | "Marge Simpson"  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Mona>    |                  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Patty>   |                  |
+| <http://www.ifi.uio.no/IN3060/simpsons#Selma>   |                  |
+----------------------------------------------------------------------

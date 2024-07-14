@@ -1,0 +1,2176 @@
+@base <http://data.lenka.no/geo/inndeling/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+
+<01/0101>
+	gn:officialName "Halden"@no ;
+	gn:officialName "Halden"@se ;
+	gn:officialName "Halden"@fkv .
+
+<01/0104>
+	gn:officialName "Moss"@no ;
+	gn:officialName "Moss"@se ;
+	gn:officialName "Moss"@fkv .
+
+<01/0105>
+	gn:officialName "Sarpsborg"@no ;
+	gn:officialName "Sarpsborg"@se ;
+	gn:officialName "Sarpsborg"@fkv .
+
+<01/0106>
+	gn:officialName "Fredrikstad"@no ;
+	gn:officialName "Fredrikstad"@se ;
+	gn:officialName "Fredrikstad"@fkv .
+
+<01/0111>
+	gn:officialName "Hvaler"@no ;
+	gn:officialName "Hvaler"@se ;
+	gn:officialName "Hvaler"@fkv .
+
+<01/0118>
+	gn:officialName "Aremark"@no ;
+	gn:officialName "Aremark"@se ;
+	gn:officialName "Aremark"@fkv .
+
+<01/0119>
+	gn:officialName "Marker"@no ;
+	gn:officialName "Marker"@se ;
+	gn:officialName "Marker"@fkv .
+
+<01/0121>
+	gn:officialName "Rømskog"@no ;
+	gn:officialName "Rømskog"@se ;
+	gn:officialName "Rømskog"@fkv .
+
+<01/0122>
+	gn:officialName "Trøgstad"@no ;
+	gn:officialName "Trøgstad"@se ;
+	gn:officialName "Trøgstad"@fkv .
+
+<01/0123>
+	gn:officialName "Spydeberg"@no ;
+	gn:officialName "Spydeberg"@se ;
+	gn:officialName "Spydeberg"@fkv .
+
+<01/0124>
+	gn:officialName "Askim"@no ;
+	gn:officialName "Askim"@se ;
+	gn:officialName "Askim"@fkv .
+
+<01/0125>
+	gn:officialName "Eidsberg"@no ;
+	gn:officialName "Eidsberg"@se ;
+	gn:officialName "Eidsberg"@fkv .
+
+<01/0127>
+	gn:officialName "Skiptvet"@no ;
+	gn:officialName "Skiptvet"@se ;
+	gn:officialName "Skiptvet"@fkv .
+
+<01/0128>
+	gn:officialName "Rakkestad"@no ;
+	gn:officialName "Rakkestad"@se ;
+	gn:officialName "Rakkestad"@fkv .
+
+<01/0135>
+	gn:officialName "Råde"@no ;
+	gn:officialName "Råde"@se ;
+	gn:officialName "Råde"@fkv .
+
+<01/0136>
+	gn:officialName "Rygge"@no ;
+	gn:officialName "Rygge"@se ;
+	gn:officialName "Rygge"@fkv .
+
+<01/0137>
+	gn:officialName "Våler"@no ;
+	gn:officialName "Våler"@se ;
+	gn:officialName "Våler"@fkv .
+
+<01/0138>
+	gn:officialName "Hobøl"@no ;
+	gn:officialName "Hobøl"@se ;
+	gn:officialName "Hobøl"@fkv .
+
+<02/0211>
+	gn:officialName "Vestby"@no ;
+	gn:officialName "Vestby"@se ;
+	gn:officialName "Vestby"@fkv .
+
+<02/0213>
+	gn:officialName "Ski"@no ;
+	gn:officialName "Ski"@se ;
+	gn:officialName "Ski"@fkv .
+
+<02/0214>
+	gn:officialName "Ås"@no ;
+	gn:officialName "Ås"@se ;
+	gn:officialName "Ås"@fkv .
+
+<02/0215>
+	gn:officialName "Frogn"@no ;
+	gn:officialName "Frogn"@se ;
+	gn:officialName "Frogn"@fkv .
+
+<02/0216>
+	gn:officialName "Nesodden"@no ;
+	gn:officialName "Nesodden"@se ;
+	gn:officialName "Nesodden"@fkv .
+
+<02/0217>
+	gn:officialName "Oppegård"@no ;
+	gn:officialName "Oppegård"@se ;
+	gn:officialName "Oppegård"@fkv .
+
+<02/0219>
+	gn:officialName "Bærum"@no ;
+	gn:officialName "Bærum"@se ;
+	gn:officialName "Bærum"@fkv .
+
+<02/0220>
+	gn:officialName "Asker"@no ;
+	gn:officialName "Asker"@se ;
+	gn:officialName "Asker"@fkv .
+
+<02/0221>
+	gn:officialName "Aurskog-Høland"@no ;
+	gn:officialName "Aurskog-Høland"@se ;
+	gn:officialName "Aurskog-Høland"@fkv .
+
+<02/0226>
+	gn:officialName "Sørum"@no ;
+	gn:officialName "Sørum"@se ;
+	gn:officialName "Sørum"@fkv .
+
+<02/0227>
+	gn:officialName "Fet"@no ;
+	gn:officialName "Fet"@se ;
+	gn:officialName "Fet"@fkv .
+
+<02/0228>
+	gn:officialName "Rælingen"@no ;
+	gn:officialName "Rælingen"@se ;
+	gn:officialName "Rælingen"@fkv .
+
+<02/0229>
+	gn:officialName "Enebakk"@no ;
+	gn:officialName "Enebakk"@se ;
+	gn:officialName "Enebakk"@fkv .
+
+<02/0230>
+	gn:officialName "Lørenskog"@no ;
+	gn:officialName "Lørenskog"@se ;
+	gn:officialName "Lørenskog"@fkv .
+
+<02/0231>
+	gn:officialName "Skedsmo"@no ;
+	gn:officialName "Skedsmo"@se ;
+	gn:officialName "Skedsmo"@fkv .
+
+<02/0233>
+	gn:officialName "Nittedal"@no ;
+	gn:officialName "Nittedal"@se ;
+	gn:officialName "Nittedal"@fkv .
+
+<02/0234>
+	gn:officialName "Gjerdrum"@no ;
+	gn:officialName "Gjerdrum"@se ;
+	gn:officialName "Gjerdrum"@fkv .
+
+<02/0235>
+	gn:officialName "Ullensaker"@no ;
+	gn:officialName "Ullensaker"@se ;
+	gn:officialName "Ullensaker"@fkv .
+
+<02/0236>
+	gn:officialName "Nes"@no ;
+	gn:officialName "Nes"@se ;
+	gn:officialName "Nes"@fkv .
+
+<02/0237>
+	gn:officialName "Eidsvoll"@no ;
+	gn:officialName "Eidsvoll"@se ;
+	gn:officialName "Eidsvoll"@fkv .
+
+<02/0238>
+	gn:officialName "Nannestad"@no ;
+	gn:officialName "Nannestad"@se ;
+	gn:officialName "Nannestad"@fkv .
+
+<02/0239>
+	gn:officialName "Hurdal"@no ;
+	gn:officialName "Hurdal"@se ;
+	gn:officialName "Hurdal"@fkv .
+
+<03/0301>
+	gn:officialName "Oslo"@no ;
+	gn:officialName "Oslo"@se ;
+	gn:officialName "Oslo"@fkv .
+
+<04/0402>
+	gn:officialName "Kongsvinger"@no ;
+	gn:officialName "Kongsvinger"@se ;
+	gn:officialName "Kongsvinger"@fkv .
+
+<04/0403>
+	gn:officialName "Hamar"@no ;
+	gn:officialName "Hamar"@se ;
+	gn:officialName "Hamar"@fkv .
+
+<04/0412>
+	gn:officialName "Ringsaker"@no ;
+	gn:officialName "Ringsaker"@se ;
+	gn:officialName "Ringsaker"@fkv .
+
+<04/0415>
+	gn:officialName "Løten"@no ;
+	gn:officialName "Løten"@se ;
+	gn:officialName "Løten"@fkv .
+
+<04/0417>
+	gn:officialName "Stange"@no ;
+	gn:officialName "Stange"@se ;
+	gn:officialName "Stange"@fkv .
+
+<04/0418>
+	gn:officialName "Nord-Odal"@no ;
+	gn:officialName "Nord-Odal"@se ;
+	gn:officialName "Nord-Odal"@fkv .
+
+<04/0419>
+	gn:officialName "Sør-Odal"@no ;
+	gn:officialName "Sør-Odal"@se ;
+	gn:officialName "Sør-Odal"@fkv .
+
+<04/0420>
+	gn:officialName "Eidskog"@no ;
+	gn:officialName "Eidskog"@se ;
+	gn:officialName "Eidskog"@fkv .
+
+<04/0423>
+	gn:officialName "Grue"@no ;
+	gn:officialName "Grue"@se ;
+	gn:officialName "Grue"@fkv .
+
+<04/0425>
+	gn:officialName "Åsnes"@no ;
+	gn:officialName "Åsnes"@se ;
+	gn:officialName "Åsnes"@fkv .
+
+<04/0426>
+	gn:officialName "Våler"@no ;
+	gn:officialName "Våler"@se ;
+	gn:officialName "Våler"@fkv .
+
+<04/0427>
+	gn:officialName "Elverum"@no ;
+	gn:officialName "Elverum"@se ;
+	gn:officialName "Elverum"@fkv .
+
+<04/0428>
+	gn:officialName "Trysil"@no ;
+	gn:officialName "Trysil"@se ;
+	gn:officialName "Trysil"@fkv .
+
+<04/0429>
+	gn:officialName "Åmot"@no ;
+	gn:officialName "Åmot"@se ;
+	gn:officialName "Åmot"@fkv .
+
+<04/0430>
+	gn:officialName "Stor-Elvdal"@no ;
+	gn:officialName "Stor-Elvdal"@se ;
+	gn:officialName "Stor-Elvdal"@fkv .
+
+<04/0432>
+	gn:officialName "Rendalen"@no ;
+	gn:officialName "Rendalen"@se ;
+	gn:officialName "Rendalen"@fkv .
+
+<04/0434>
+	gn:officialName "Engerdal"@no ;
+	gn:officialName "Engerdal"@se ;
+	gn:officialName "Engerdal"@fkv .
+
+<04/0436>
+	gn:officialName "Tolga"@no ;
+	gn:officialName "Tolga"@se ;
+	gn:officialName "Tolga"@fkv .
+
+<04/0437>
+	gn:officialName "Tynset"@no ;
+	gn:officialName "Tynset"@se ;
+	gn:officialName "Tynset"@fkv .
+
+<04/0438>
+	gn:officialName "Alvdal"@no ;
+	gn:officialName "Alvdal"@se ;
+	gn:officialName "Alvdal"@fkv .
+
+<04/0439>
+	gn:officialName "Folldal"@no ;
+	gn:officialName "Folldal"@se ;
+	gn:officialName "Folldal"@fkv .
+
+<04/0441>
+	gn:officialName "Os"@no ;
+	gn:officialName "Os"@se ;
+	gn:officialName "Os"@fkv .
+
+<05/0501>
+	gn:officialName "Lillehammer"@no ;
+	gn:officialName "Lillehammer"@se ;
+	gn:officialName "Lillehammer"@fkv .
+
+<05/0502>
+	gn:officialName "Gjøvik"@no ;
+	gn:officialName "Gjøvik"@se ;
+	gn:officialName "Gjøvik"@fkv .
+
+<05/0511>
+	gn:officialName "Dovre"@no ;
+	gn:officialName "Dovre"@se ;
+	gn:officialName "Dovre"@fkv .
+
+<05/0512>
+	gn:officialName "Lesja"@no ;
+	gn:officialName "Lesja"@se ;
+	gn:officialName "Lesja"@fkv .
+
+<05/0513>
+	gn:officialName "Skjåk"@no ;
+	gn:officialName "Skjåk"@se ;
+	gn:officialName "Skjåk"@fkv .
+
+<05/0514>
+	gn:officialName "Lom"@no ;
+	gn:officialName "Lom"@se ;
+	gn:officialName "Lom"@fkv .
+
+<05/0515>
+	gn:officialName "Vågå"@no ;
+	gn:officialName "Vågå"@se ;
+	gn:officialName "Vågå"@fkv .
+
+<05/0516>
+	gn:officialName "Nord-Fron"@no ;
+	gn:officialName "Nord-Fron"@se ;
+	gn:officialName "Nord-Fron"@fkv .
+
+<05/0517>
+	gn:officialName "Sel"@no ;
+	gn:officialName "Sel"@se ;
+	gn:officialName "Sel"@fkv .
+
+<05/0519>
+	gn:officialName "Sør-Fron"@no ;
+	gn:officialName "Sør-Fron"@se ;
+	gn:officialName "Sør-Fron"@fkv .
+
+<05/0520>
+	gn:officialName "Ringebu"@no ;
+	gn:officialName "Ringebu"@se ;
+	gn:officialName "Ringebu"@fkv .
+
+<05/0521>
+	gn:officialName "Øyer"@no ;
+	gn:officialName "Øyer"@se ;
+	gn:officialName "Øyer"@fkv .
+
+<05/0522>
+	gn:officialName "Gausdal"@no ;
+	gn:officialName "Gausdal"@se ;
+	gn:officialName "Gausdal"@fkv .
+
+<05/0528>
+	gn:officialName "Østre Toten"@no ;
+	gn:officialName "Østre Toten"@se ;
+	gn:officialName "Østre Toten"@fkv .
+
+<05/0529>
+	gn:officialName "Vestre Toten"@no ;
+	gn:officialName "Vestre Toten"@se ;
+	gn:officialName "Vestre Toten"@fkv .
+
+<05/0532>
+	gn:officialName "Jevnaker"@no ;
+	gn:officialName "Jevnaker"@se ;
+	gn:officialName "Jevnaker"@fkv .
+
+<05/0533>
+	gn:officialName "Lunner"@no ;
+	gn:officialName "Lunner"@se ;
+	gn:officialName "Lunner"@fkv .
+
+<05/0534>
+	gn:officialName "Gran"@no ;
+	gn:officialName "Gran"@se ;
+	gn:officialName "Gran"@fkv .
+
+<05/0536>
+	gn:officialName "Søndre Land"@no ;
+	gn:officialName "Søndre Land"@se ;
+	gn:officialName "Søndre Land"@fkv .
+
+<05/0538>
+	gn:officialName "Nordre Land"@no ;
+	gn:officialName "Nordre Land"@se ;
+	gn:officialName "Nordre Land"@fkv .
+
+<05/0540>
+	gn:officialName "Sør-Aurdal"@no ;
+	gn:officialName "Sør-Aurdal"@se ;
+	gn:officialName "Sør-Aurdal"@fkv .
+
+<05/0541>
+	gn:officialName "Etnedal"@no ;
+	gn:officialName "Etnedal"@se ;
+	gn:officialName "Etnedal"@fkv .
+
+<05/0542>
+	gn:officialName "Nord-Aurdal"@no ;
+	gn:officialName "Nord-Aurdal"@se ;
+	gn:officialName "Nord-Aurdal"@fkv .
+
+<05/0543>
+	gn:officialName "Vestre Slidre"@no ;
+	gn:officialName "Vestre Slidre"@se ;
+	gn:officialName "Vestre Slidre"@fkv .
+
+<05/0544>
+	gn:officialName "Øystre Slidre"@no ;
+	gn:officialName "Øystre Slidre"@se ;
+	gn:officialName "Øystre Slidre"@fkv .
+
+<05/0545>
+	gn:officialName "Vang"@no ;
+	gn:officialName "Vang"@se ;
+	gn:officialName "Vang"@fkv .
+
+<06/0602>
+	gn:officialName "Drammen"@no ;
+	gn:officialName "Drammen"@se ;
+	gn:officialName "Drammen"@fkv .
+
+<06/0604>
+	gn:officialName "Kongsberg"@no ;
+	gn:officialName "Kongsberg"@se ;
+	gn:officialName "Kongsberg"@fkv .
+
+<06/0605>
+	gn:officialName "Ringerike"@no ;
+	gn:officialName "Ringerike"@se ;
+	gn:officialName "Ringerike"@fkv .
+
+<06/0612>
+	gn:officialName "Hole"@no ;
+	gn:officialName "Hole"@se ;
+	gn:officialName "Hole"@fkv .
+
+<06/0615>
+	gn:officialName "Flå"@no ;
+	gn:officialName "Flå"@se ;
+	gn:officialName "Flå"@fkv .
+
+<06/0616>
+	gn:officialName "Nes"@no ;
+	gn:officialName "Nes"@se ;
+	gn:officialName "Nes"@fkv .
+
+<06/0617>
+	gn:officialName "Gol"@no ;
+	gn:officialName "Gol"@se ;
+	gn:officialName "Gol"@fkv .
+
+<06/0618>
+	gn:officialName "Hemsedal"@no ;
+	gn:officialName "Hemsedal"@se ;
+	gn:officialName "Hemsedal"@fkv .
+
+<06/0619>
+	gn:officialName "Ål"@no ;
+	gn:officialName "Ål"@se ;
+	gn:officialName "Ål"@fkv .
+
+<06/0620>
+	gn:officialName "Hol"@no ;
+	gn:officialName "Hol"@se ;
+	gn:officialName "Hol"@fkv .
+
+<06/0621>
+	gn:officialName "Sigdal"@no ;
+	gn:officialName "Sigdal"@se ;
+	gn:officialName "Sigdal"@fkv .
+
+<06/0622>
+	gn:officialName "Krødsherad"@no ;
+	gn:officialName "Krødsherad"@se ;
+	gn:officialName "Krødsherad"@fkv .
+
+<06/0623>
+	gn:officialName "Modum"@no ;
+	gn:officialName "Modum"@se ;
+	gn:officialName "Modum"@fkv .
+
+<06/0624>
+	gn:officialName "Øvre Eiker"@no ;
+	gn:officialName "Øvre Eiker"@se ;
+	gn:officialName "Øvre Eiker"@fkv .
+
+<06/0625>
+	gn:officialName "Nedre Eiker"@no ;
+	gn:officialName "Nedre Eiker"@se ;
+	gn:officialName "Nedre Eiker"@fkv .
+
+<06/0626>
+	gn:officialName "Lier"@no ;
+	gn:officialName "Lier"@se ;
+	gn:officialName "Lier"@fkv .
+
+<06/0627>
+	gn:officialName "Røyken"@no ;
+	gn:officialName "Røyken"@se ;
+	gn:officialName "Røyken"@fkv .
+
+<06/0628>
+	gn:officialName "Hurum"@no ;
+	gn:officialName "Hurum"@se ;
+	gn:officialName "Hurum"@fkv .
+
+<06/0631>
+	gn:officialName "Flesberg"@no ;
+	gn:officialName "Flesberg"@se ;
+	gn:officialName "Flesberg"@fkv .
+
+<06/0632>
+	gn:officialName "Rollag"@no ;
+	gn:officialName "Rollag"@se ;
+	gn:officialName "Rollag"@fkv .
+
+<06/0633>
+	gn:officialName "Nore og Uvdal"@no ;
+	gn:officialName "Nore og Uvdal"@se ;
+	gn:officialName "Nore og Uvdal"@fkv .
+
+<07/0701>
+	gn:officialName "Horten"@no ;
+	gn:officialName "Horten"@se ;
+	gn:officialName "Horten"@fkv .
+
+<07/0702>
+	gn:officialName "Holmestrand"@no ;
+	gn:officialName "Holmestrand"@se ;
+	gn:officialName "Holmestrand"@fkv .
+
+<07/0704>
+	gn:officialName "Tønsberg"@no ;
+	gn:officialName "Tønsberg"@se ;
+	gn:officialName "Tønsberg"@fkv .
+
+<07/0706>
+	gn:officialName "Sandefjord"@no ;
+	gn:officialName "Sandefjord"@se ;
+	gn:officialName "Sandefjord"@fkv .
+
+<07/0709>
+	gn:officialName "Larvik"@no ;
+	gn:officialName "Larvik"@se ;
+	gn:officialName "Larvik"@fkv .
+
+<07/0711>
+	gn:officialName "Svelvik"@no ;
+	gn:officialName "Svelvik"@se ;
+	gn:officialName "Svelvik"@fkv .
+
+<07/0713>
+	gn:officialName "Sande"@no ;
+	gn:officialName "Sande"@se ;
+	gn:officialName "Sande"@fkv .
+
+<07/0714>
+	gn:officialName "Hof"@no ;
+	gn:officialName "Hof"@se ;
+	gn:officialName "Hof"@fkv .
+
+<07/0716>
+	gn:officialName "Re"@no ;
+	gn:officialName "Re"@se ;
+	gn:officialName "Re"@fkv .
+
+<07/0719>
+	gn:officialName "Andebu"@no ;
+	gn:officialName "Andebu"@se ;
+	gn:officialName "Andebu"@fkv .
+
+<07/0720>
+	gn:officialName "Stokke"@no ;
+	gn:officialName "Stokke"@se ;
+	gn:officialName "Stokke"@fkv .
+
+<07/0722>
+	gn:officialName "Nøtterøy"@no ;
+	gn:officialName "Nøtterøy"@se ;
+	gn:officialName "Nøtterøy"@fkv .
+
+<07/0723>
+	gn:officialName "Tjøme"@no ;
+	gn:officialName "Tjøme"@se ;
+	gn:officialName "Tjøme"@fkv .
+
+<07/0728>
+	gn:officialName "Lardal"@no ;
+	gn:officialName "Lardal"@se ;
+	gn:officialName "Lardal"@fkv .
+
+<08/0805>
+	gn:officialName "Porsgrunn"@no ;
+	gn:officialName "Porsgrunn"@se ;
+	gn:officialName "Porsgrunn"@fkv .
+
+<08/0806>
+	gn:officialName "Skien"@no ;
+	gn:officialName "Skien"@se ;
+	gn:officialName "Skien"@fkv .
+
+<08/0807>
+	gn:officialName "Notodden"@no ;
+	gn:officialName "Notodden"@se ;
+	gn:officialName "Notodden"@fkv .
+
+<08/0811>
+	gn:officialName "Siljan"@no ;
+	gn:officialName "Siljan"@se ;
+	gn:officialName "Siljan"@fkv .
+
+<08/0814>
+	gn:officialName "Bamble"@no ;
+	gn:officialName "Bamble"@se ;
+	gn:officialName "Bamble"@fkv .
+
+<08/0815>
+	gn:officialName "Kragerø"@no ;
+	gn:officialName "Kragerø"@se ;
+	gn:officialName "Kragerø"@fkv .
+
+<08/0817>
+	gn:officialName "Drangedal"@no ;
+	gn:officialName "Drangedal"@se ;
+	gn:officialName "Drangedal"@fkv .
+
+<08/0819>
+	gn:officialName "Nome"@no ;
+	gn:officialName "Nome"@se ;
+	gn:officialName "Nome"@fkv .
+
+<08/0821>
+	gn:officialName "Bø"@no ;
+	gn:officialName "Bø"@se ;
+	gn:officialName "Bø"@fkv .
+
+<08/0822>
+	gn:officialName "Sauherad"@no ;
+	gn:officialName "Sauherad"@se ;
+	gn:officialName "Sauherad"@fkv .
+
+<08/0826>
+	gn:officialName "Tinn"@no ;
+	gn:officialName "Tinn"@se ;
+	gn:officialName "Tinn"@fkv .
+
+<08/0827>
+	gn:officialName "Hjartdal"@no ;
+	gn:officialName "Hjartdal"@se ;
+	gn:officialName "Hjartdal"@fkv .
+
+<08/0828>
+	gn:officialName "Seljord"@no ;
+	gn:officialName "Seljord"@se ;
+	gn:officialName "Seljord"@fkv .
+
+<08/0829>
+	gn:officialName "Kviteseid"@no ;
+	gn:officialName "Kviteseid"@se ;
+	gn:officialName "Kviteseid"@fkv .
+
+<08/0830>
+	gn:officialName "Nissedal"@no ;
+	gn:officialName "Nissedal"@se ;
+	gn:officialName "Nissedal"@fkv .
+
+<08/0831>
+	gn:officialName "Fyresdal"@no ;
+	gn:officialName "Fyresdal"@se ;
+	gn:officialName "Fyresdal"@fkv .
+
+<08/0833>
+	gn:officialName "Tokke"@no ;
+	gn:officialName "Tokke"@se ;
+	gn:officialName "Tokke"@fkv .
+
+<08/0834>
+	gn:officialName "Vinje"@no ;
+	gn:officialName "Vinje"@se ;
+	gn:officialName "Vinje"@fkv .
+
+<09/0901>
+	gn:officialName "Risør"@no ;
+	gn:officialName "Risør"@se ;
+	gn:officialName "Risør"@fkv .
+
+<09/0904>
+	gn:officialName "Grimstad"@no ;
+	gn:officialName "Grimstad"@se ;
+	gn:officialName "Grimstad"@fkv .
+
+<09/0906>
+	gn:officialName "Arendal"@no ;
+	gn:officialName "Arendal"@se ;
+	gn:officialName "Arendal"@fkv .
+
+<09/0911>
+	gn:officialName "Gjerstad"@no ;
+	gn:officialName "Gjerstad"@se ;
+	gn:officialName "Gjerstad"@fkv .
+
+<09/0912>
+	gn:officialName "Vegårshei"@no ;
+	gn:officialName "Vegårshei"@se ;
+	gn:officialName "Vegårshei"@fkv .
+
+<09/0914>
+	gn:officialName "Tvedestrand"@no ;
+	gn:officialName "Tvedestrand"@se ;
+	gn:officialName "Tvedestrand"@fkv .
+
+<09/0919>
+	gn:officialName "Froland"@no ;
+	gn:officialName "Froland"@se ;
+	gn:officialName "Froland"@fkv .
+
+<09/0926>
+	gn:officialName "Lillesand"@no ;
+	gn:officialName "Lillesand"@se ;
+	gn:officialName "Lillesand"@fkv .
+
+<09/0928>
+	gn:officialName "Birkenes"@no ;
+	gn:officialName "Birkenes"@se ;
+	gn:officialName "Birkenes"@fkv .
+
+<09/0929>
+	gn:officialName "Åmli"@no ;
+	gn:officialName "Åmli"@se ;
+	gn:officialName "Åmli"@fkv .
+
+<09/0935>
+	gn:officialName "Iveland"@no ;
+	gn:officialName "Iveland"@se ;
+	gn:officialName "Iveland"@fkv .
+
+<09/0937>
+	gn:officialName "Evje og Hornnes"@no ;
+	gn:officialName "Evje og Hornnes"@se ;
+	gn:officialName "Evje og Hornnes"@fkv .
+
+<09/0938>
+	gn:officialName "Bygland"@no ;
+	gn:officialName "Bygland"@se ;
+	gn:officialName "Bygland"@fkv .
+
+<09/0940>
+	gn:officialName "Valle"@no ;
+	gn:officialName "Valle"@se ;
+	gn:officialName "Valle"@fkv .
+
+<09/0941>
+	gn:officialName "Bykle"@no ;
+	gn:officialName "Bykle"@se ;
+	gn:officialName "Bykle"@fkv .
+
+<10/1001>
+	gn:officialName "Kristiansand"@no ;
+	gn:officialName "Kristiansand"@se ;
+	gn:officialName "Kristiansand"@fkv .
+
+<10/1002>
+	gn:officialName "Mandal"@no ;
+	gn:officialName "Mandal"@se ;
+	gn:officialName "Mandal"@fkv .
+
+<10/1003>
+	gn:officialName "Farsund"@no ;
+	gn:officialName "Farsund"@se ;
+	gn:officialName "Farsund"@fkv .
+
+<10/1004>
+	gn:officialName "Flekkefjord"@no ;
+	gn:officialName "Flekkefjord"@se ;
+	gn:officialName "Flekkefjord"@fkv .
+
+<10/1014>
+	gn:officialName "Vennesla"@no ;
+	gn:officialName "Vennesla"@se ;
+	gn:officialName "Vennesla"@fkv .
+
+<10/1017>
+	gn:officialName "Songdalen"@no ;
+	gn:officialName "Songdalen"@se ;
+	gn:officialName "Songdalen"@fkv .
+
+<10/1018>
+	gn:officialName "Søgne"@no ;
+	gn:officialName "Søgne"@se ;
+	gn:officialName "Søgne"@fkv .
+
+<10/1021>
+	gn:officialName "Marnardal"@no ;
+	gn:officialName "Marnardal"@se ;
+	gn:officialName "Marnardal"@fkv .
+
+<10/1026>
+	gn:officialName "Åseral"@no ;
+	gn:officialName "Åseral"@se ;
+	gn:officialName "Åseral"@fkv .
+
+<10/1027>
+	gn:officialName "Audnedal"@no ;
+	gn:officialName "Audnedal"@se ;
+	gn:officialName "Audnedal"@fkv .
+
+<10/1029>
+	gn:officialName "Lindesnes"@no ;
+	gn:officialName "Lindesnes"@se ;
+	gn:officialName "Lindesnes"@fkv .
+
+<10/1032>
+	gn:officialName "Lyngdal"@no ;
+	gn:officialName "Lyngdal"@se ;
+	gn:officialName "Lyngdal"@fkv .
+
+<10/1034>
+	gn:officialName "Hægebostad"@no ;
+	gn:officialName "Hægebostad"@se ;
+	gn:officialName "Hægebostad"@fkv .
+
+<10/1037>
+	gn:officialName "Kvinesdal"@no ;
+	gn:officialName "Kvinesdal"@se ;
+	gn:officialName "Kvinesdal"@fkv .
+
+<10/1046>
+	gn:officialName "Sirdal"@no ;
+	gn:officialName "Sirdal"@se ;
+	gn:officialName "Sirdal"@fkv .
+
+<11/1101>
+	gn:officialName "Eigersund"@no ;
+	gn:officialName "Eigersund"@se ;
+	gn:officialName "Eigersund"@fkv .
+
+<11/1102>
+	gn:officialName "Sandnes"@no ;
+	gn:officialName "Sandnes"@se ;
+	gn:officialName "Sandnes"@fkv .
+
+<11/1103>
+	gn:officialName "Stavanger"@no ;
+	gn:officialName "Stavanger"@se ;
+	gn:officialName "Stavanger"@fkv .
+
+<11/1106>
+	gn:officialName "Haugesund"@no ;
+	gn:officialName "Haugesund"@se ;
+	gn:officialName "Haugesund"@fkv .
+
+<11/1111>
+	gn:officialName "Sokndal"@no ;
+	gn:officialName "Sokndal"@se ;
+	gn:officialName "Sokndal"@fkv .
+
+<11/1112>
+	gn:officialName "Lund"@no ;
+	gn:officialName "Lund"@se ;
+	gn:officialName "Lund"@fkv .
+
+<11/1114>
+	gn:officialName "Bjerkreim"@no ;
+	gn:officialName "Bjerkreim"@se ;
+	gn:officialName "Bjerkreim"@fkv .
+
+<11/1119>
+	gn:officialName "Hå"@no ;
+	gn:officialName "Hå"@se ;
+	gn:officialName "Hå"@fkv .
+
+<11/1120>
+	gn:officialName "Klepp"@no ;
+	gn:officialName "Klepp"@se ;
+	gn:officialName "Klepp"@fkv .
+
+<11/1121>
+	gn:officialName "Time"@no ;
+	gn:officialName "Time"@se ;
+	gn:officialName "Time"@fkv .
+
+<11/1122>
+	gn:officialName "Gjesdal"@no ;
+	gn:officialName "Gjesdal"@se ;
+	gn:officialName "Gjesdal"@fkv .
+
+<11/1124>
+	gn:officialName "Sola"@no ;
+	gn:officialName "Sola"@se ;
+	gn:officialName "Sola"@fkv .
+
+<11/1127>
+	gn:officialName "Randaberg"@no ;
+	gn:officialName "Randaberg"@se ;
+	gn:officialName "Randaberg"@fkv .
+
+<11/1129>
+	gn:officialName "Forsand"@no ;
+	gn:officialName "Forsand"@se ;
+	gn:officialName "Forsand"@fkv .
+
+<11/1130>
+	gn:officialName "Strand"@no ;
+	gn:officialName "Strand"@se ;
+	gn:officialName "Strand"@fkv .
+
+<11/1133>
+	gn:officialName "Hjelmeland"@no ;
+	gn:officialName "Hjelmeland"@se ;
+	gn:officialName "Hjelmeland"@fkv .
+
+<11/1134>
+	gn:officialName "Suldal"@no ;
+	gn:officialName "Suldal"@se ;
+	gn:officialName "Suldal"@fkv .
+
+<11/1135>
+	gn:officialName "Sauda"@no ;
+	gn:officialName "Sauda"@se ;
+	gn:officialName "Sauda"@fkv .
+
+<11/1141>
+	gn:officialName "Finnøy"@no ;
+	gn:officialName "Finnøy"@se ;
+	gn:officialName "Finnøy"@fkv .
+
+<11/1142>
+	gn:officialName "Rennesøy"@no ;
+	gn:officialName "Rennesøy"@se ;
+	gn:officialName "Rennesøy"@fkv .
+
+<11/1144>
+	gn:officialName "Kvitsøy"@no ;
+	gn:officialName "Kvitsøy"@se ;
+	gn:officialName "Kvitsøy"@fkv .
+
+<11/1145>
+	gn:officialName "Bokn"@no ;
+	gn:officialName "Bokn"@se ;
+	gn:officialName "Bokn"@fkv .
+
+<11/1146>
+	gn:officialName "Tysvær"@no ;
+	gn:officialName "Tysvær"@se ;
+	gn:officialName "Tysvær"@fkv .
+
+<11/1149>
+	gn:officialName "Karmøy"@no ;
+	gn:officialName "Karmøy"@se ;
+	gn:officialName "Karmøy"@fkv .
+
+<11/1151>
+	gn:officialName "Utsira"@no ;
+	gn:officialName "Utsira"@se ;
+	gn:officialName "Utsira"@fkv .
+
+<11/1160>
+	gn:officialName "Vindafjord"@no ;
+	gn:officialName "Vindafjord"@se ;
+	gn:officialName "Vindafjord"@fkv .
+
+<12/1201>
+	gn:officialName "Bergen"@no ;
+	gn:officialName "Bergen"@se ;
+	gn:officialName "Peruna"@fkv .
+
+<12/1211>
+	gn:officialName "Etne"@no ;
+	gn:officialName "Etne"@se ;
+	gn:officialName "Etne"@fkv .
+
+<12/1216>
+	gn:officialName "Sveio"@no ;
+	gn:officialName "Sveio"@se ;
+	gn:officialName "Sveio"@fkv .
+
+<12/1219>
+	gn:officialName "Bømlo"@no ;
+	gn:officialName "Bømlo"@se ;
+	gn:officialName "Bømlo"@fkv .
+
+<12/1221>
+	gn:officialName "Stord"@no ;
+	gn:officialName "Stord"@se ;
+	gn:officialName "Stord"@fkv .
+
+<12/1222>
+	gn:officialName "Fitjar"@no ;
+	gn:officialName "Fitjar"@se ;
+	gn:officialName "Fitjar"@fkv .
+
+<12/1223>
+	gn:officialName "Tysnes"@no ;
+	gn:officialName "Tysnes"@se ;
+	gn:officialName "Tysnes"@fkv .
+
+<12/1224>
+	gn:officialName "Kvinnherad"@no ;
+	gn:officialName "Kvinnherad"@se ;
+	gn:officialName "Kvinnherad"@fkv .
+
+<12/1227>
+	gn:officialName "Jondal"@no ;
+	gn:officialName "Jondal"@se ;
+	gn:officialName "Jondal"@fkv .
+
+<12/1228>
+	gn:officialName "Odda"@no ;
+	gn:officialName "Odda"@se ;
+	gn:officialName "Odda"@fkv .
+
+<12/1231>
+	gn:officialName "Ullensvang"@no ;
+	gn:officialName "Ullensvang"@se ;
+	gn:officialName "Ullensvang"@fkv .
+
+<12/1232>
+	gn:officialName "Eidfjord"@no ;
+	gn:officialName "Eidfjord"@se ;
+	gn:officialName "Eidfjord"@fkv .
+
+<12/1233>
+	gn:officialName "Ulvik"@no ;
+	gn:officialName "Ulvik"@se ;
+	gn:officialName "Ulvik"@fkv .
+
+<12/1234>
+	gn:officialName "Granvin"@no ;
+	gn:officialName "Granvin"@se ;
+	gn:officialName "Granvin"@fkv .
+
+<12/1235>
+	gn:officialName "Voss"@no ;
+	gn:officialName "Voss"@se ;
+	gn:officialName "Voss"@fkv .
+
+<12/1238>
+	gn:officialName "Kvam"@no ;
+	gn:officialName "Kvam"@se ;
+	gn:officialName "Kvam"@fkv .
+
+<12/1241>
+	gn:officialName "Fusa"@no ;
+	gn:officialName "Fusa"@se ;
+	gn:officialName "Fusa"@fkv .
+
+<12/1242>
+	gn:officialName "Samnanger"@no ;
+	gn:officialName "Samnanger"@se ;
+	gn:officialName "Samnanger"@fkv .
+
+<12/1243>
+	gn:officialName "Os"@no ;
+	gn:officialName "Os"@se ;
+	gn:officialName "Os"@fkv .
+
+<12/1244>
+	gn:officialName "Austevoll"@no ;
+	gn:officialName "Austevoll"@se ;
+	gn:officialName "Austevoll"@fkv .
+
+<12/1245>
+	gn:officialName "Sund"@no ;
+	gn:officialName "Sund"@se ;
+	gn:officialName "Sund"@fkv .
+
+<12/1246>
+	gn:officialName "Fjell"@no ;
+	gn:officialName "Fjell"@se ;
+	gn:officialName "Fjell"@fkv .
+
+<12/1247>
+	gn:officialName "Askøy"@no ;
+	gn:officialName "Askøy"@se ;
+	gn:officialName "Askøy"@fkv .
+
+<12/1251>
+	gn:officialName "Vaksdal"@no ;
+	gn:officialName "Vaksdal"@se ;
+	gn:officialName "Vaksdal"@fkv .
+
+<12/1252>
+	gn:officialName "Modalen"@no ;
+	gn:officialName "Modalen"@se ;
+	gn:officialName "Modalen"@fkv .
+
+<12/1253>
+	gn:officialName "Osterøy"@no ;
+	gn:officialName "Osterøy"@se ;
+	gn:officialName "Osterøy"@fkv .
+
+<12/1256>
+	gn:officialName "Meland"@no ;
+	gn:officialName "Meland"@se ;
+	gn:officialName "Meland"@fkv .
+
+<12/1259>
+	gn:officialName "Øygarden"@no ;
+	gn:officialName "Øygarden"@se ;
+	gn:officialName "Øygarden"@fkv .
+
+<12/1260>
+	gn:officialName "Radøy"@no ;
+	gn:officialName "Radøy"@se ;
+	gn:officialName "Radøy"@fkv .
+
+<12/1263>
+	gn:officialName "Lindås"@no ;
+	gn:officialName "Lindås"@se ;
+	gn:officialName "Lindås"@fkv .
+
+<12/1264>
+	gn:officialName "Austrheim"@no ;
+	gn:officialName "Austrheim"@se ;
+	gn:officialName "Austrheim"@fkv .
+
+<12/1265>
+	gn:officialName "Fedje"@no ;
+	gn:officialName "Fedje"@se ;
+	gn:officialName "Fedje"@fkv .
+
+<12/1266>
+	gn:officialName "Masfjorden"@no ;
+	gn:officialName "Masfjorden"@se ;
+	gn:officialName "Masfjorden"@fkv .
+
+<14/1401>
+	gn:officialName "Flora"@no ;
+	gn:officialName "Flora"@se ;
+	gn:officialName "Flora"@fkv .
+
+<14/1411>
+	gn:officialName "Gulen"@no ;
+	gn:officialName "Gulen"@se ;
+	gn:officialName "Gulen"@fkv .
+
+<14/1412>
+	gn:officialName "Solund"@no ;
+	gn:officialName "Solund"@se ;
+	gn:officialName "Solund"@fkv .
+
+<14/1413>
+	gn:officialName "Hyllestad"@no ;
+	gn:officialName "Hyllestad"@se ;
+	gn:officialName "Hyllestad"@fkv .
+
+<14/1416>
+	gn:officialName "Høyanger"@no ;
+	gn:officialName "Høyanger"@se ;
+	gn:officialName "Høyanger"@fkv .
+
+<14/1417>
+	gn:officialName "Vik"@no ;
+	gn:officialName "Vik"@se ;
+	gn:officialName "Vik"@fkv .
+
+<14/1418>
+	gn:officialName "Balestrand"@no ;
+	gn:officialName "Balestrand"@se ;
+	gn:officialName "Balestrand"@fkv .
+
+<14/1419>
+	gn:officialName "Leikanger"@no ;
+	gn:officialName "Leikanger"@se ;
+	gn:officialName "Leikanger"@fkv .
+
+<14/1420>
+	gn:officialName "Sogndal"@no ;
+	gn:officialName "Sogndal"@se ;
+	gn:officialName "Sogndal"@fkv .
+
+<14/1421>
+	gn:officialName "Aurland"@no ;
+	gn:officialName "Aurland"@se ;
+	gn:officialName "Aurland"@fkv .
+
+<14/1422>
+	gn:officialName "Lærdal"@no ;
+	gn:officialName "Lærdal"@se ;
+	gn:officialName "Lærdal"@fkv .
+
+<14/1424>
+	gn:officialName "Årdal"@no ;
+	gn:officialName "Årdal"@se ;
+	gn:officialName "Årdal"@fkv .
+
+<14/1426>
+	gn:officialName "Luster"@no ;
+	gn:officialName "Luster"@se ;
+	gn:officialName "Luster"@fkv .
+
+<14/1428>
+	gn:officialName "Askvoll"@no ;
+	gn:officialName "Askvoll"@se ;
+	gn:officialName "Askvoll"@fkv .
+
+<14/1429>
+	gn:officialName "Fjaler"@no ;
+	gn:officialName "Fjaler"@se ;
+	gn:officialName "Fjaler"@fkv .
+
+<14/1430>
+	gn:officialName "Gaular"@no ;
+	gn:officialName "Gaular"@se ;
+	gn:officialName "Gaular"@fkv .
+
+<14/1431>
+	gn:officialName "Jølster"@no ;
+	gn:officialName "Jølster"@se ;
+	gn:officialName "Jølster"@fkv .
+
+<14/1432>
+	gn:officialName "Førde"@no ;
+	gn:officialName "Førde"@se ;
+	gn:officialName "Førde"@fkv .
+
+<14/1433>
+	gn:officialName "Naustdal"@no ;
+	gn:officialName "Naustdal"@se ;
+	gn:officialName "Naustdal"@fkv .
+
+<14/1438>
+	gn:officialName "Bremanger"@no ;
+	gn:officialName "Bremanger"@se ;
+	gn:officialName "Bremanger"@fkv .
+
+<14/1439>
+	gn:officialName "Vågsøy"@no ;
+	gn:officialName "Vågsøy"@se ;
+	gn:officialName "Vågsøy"@fkv .
+
+<14/1441>
+	gn:officialName "Selje"@no ;
+	gn:officialName "Selje"@se ;
+	gn:officialName "Selje"@fkv .
+
+<14/1443>
+	gn:officialName "Eid"@no ;
+	gn:officialName "Eid"@se ;
+	gn:officialName "Eid"@fkv .
+
+<14/1444>
+	gn:officialName "Hornindal"@no ;
+	gn:officialName "Hornindal"@se ;
+	gn:officialName "Hornindal"@fkv .
+
+<14/1445>
+	gn:officialName "Gloppen"@no ;
+	gn:officialName "Gloppen"@se ;
+	gn:officialName "Gloppen"@fkv .
+
+<14/1449>
+	gn:officialName "Stryn"@no ;
+	gn:officialName "Stryn"@se ;
+	gn:officialName "Stryn"@fkv .
+
+<15/1502>
+	gn:officialName "Molde"@no ;
+	gn:officialName "Molde"@se ;
+	gn:officialName "Molde"@fkv .
+
+<15/1504>
+	gn:officialName "Ålesund"@no ;
+	gn:officialName "Ålesund"@se ;
+	gn:officialName "Ålesund"@fkv .
+
+<15/1505>
+	gn:officialName "Kristiansund"@no ;
+	gn:officialName "Kristiansund"@se ;
+	gn:officialName "Kristiansund"@fkv .
+
+<15/1511>
+	gn:officialName "Vanylven"@no ;
+	gn:officialName "Vanylven"@se ;
+	gn:officialName "Vanylven"@fkv .
+
+<15/1514>
+	gn:officialName "Sande"@no ;
+	gn:officialName "Sande"@se ;
+	gn:officialName "Sande"@fkv .
+
+<15/1515>
+	gn:officialName "Herøy"@no ;
+	gn:officialName "Herøy"@se ;
+	gn:officialName "Herøy"@fkv .
+
+<15/1516>
+	gn:officialName "Ulstein"@no ;
+	gn:officialName "Ulstein"@se ;
+	gn:officialName "Ulstein"@fkv .
+
+<15/1517>
+	gn:officialName "Hareid"@no ;
+	gn:officialName "Hareid"@se ;
+	gn:officialName "Hareid"@fkv .
+
+<15/1519>
+	gn:officialName "Volda"@no ;
+	gn:officialName "Volda"@se ;
+	gn:officialName "Volda"@fkv .
+
+<15/1520>
+	gn:officialName "Ørsta"@no ;
+	gn:officialName "Ørsta"@se ;
+	gn:officialName "Ørsta"@fkv .
+
+<15/1523>
+	gn:officialName "Ørskog"@no ;
+	gn:officialName "Ørskog"@se ;
+	gn:officialName "Ørskog"@fkv .
+
+<15/1524>
+	gn:officialName "Norddal"@no ;
+	gn:officialName "Norddal"@se ;
+	gn:officialName "Norddal"@fkv .
+
+<15/1525>
+	gn:officialName "Stranda"@no ;
+	gn:officialName "Stranda"@se ;
+	gn:officialName "Stranda"@fkv .
+
+<15/1526>
+	gn:officialName "Stordal"@no ;
+	gn:officialName "Stordal"@se ;
+	gn:officialName "Stordal"@fkv .
+
+<15/1528>
+	gn:officialName "Sykkylven"@no ;
+	gn:officialName "Sykkylven"@se ;
+	gn:officialName "Sykkylven"@fkv .
+
+<15/1529>
+	gn:officialName "Skodje"@no ;
+	gn:officialName "Skodje"@se ;
+	gn:officialName "Skodje"@fkv .
+
+<15/1531>
+	gn:officialName "Sula"@no ;
+	gn:officialName "Sula"@se ;
+	gn:officialName "Sula"@fkv .
+
+<15/1532>
+	gn:officialName "Giske"@no ;
+	gn:officialName "Giske"@se ;
+	gn:officialName "Giske"@fkv .
+
+<15/1534>
+	gn:officialName "Haram"@no ;
+	gn:officialName "Haram"@se ;
+	gn:officialName "Haram"@fkv .
+
+<15/1535>
+	gn:officialName "Vestnes"@no ;
+	gn:officialName "Vestnes"@se ;
+	gn:officialName "Vestnes"@fkv .
+
+<15/1539>
+	gn:officialName "Rauma"@no ;
+	gn:officialName "Rauma"@se ;
+	gn:officialName "Rauma"@fkv .
+
+<15/1543>
+	gn:officialName "Nesset"@no ;
+	gn:officialName "Nesset"@se ;
+	gn:officialName "Nesset"@fkv .
+
+<15/1545>
+	gn:officialName "Midsund"@no ;
+	gn:officialName "Midsund"@se ;
+	gn:officialName "Midsund"@fkv .
+
+<15/1546>
+	gn:officialName "Sandøy"@no ;
+	gn:officialName "Sandøy"@se ;
+	gn:officialName "Sandøy"@fkv .
+
+<15/1547>
+	gn:officialName "Aukra"@no ;
+	gn:officialName "Aukra"@se ;
+	gn:officialName "Aukra"@fkv .
+
+<15/1548>
+	gn:officialName "Fræna"@no ;
+	gn:officialName "Fræna"@se ;
+	gn:officialName "Fræna"@fkv .
+
+<15/1551>
+	gn:officialName "Eide"@no ;
+	gn:officialName "Eide"@se ;
+	gn:officialName "Eide"@fkv .
+
+<15/1554>
+	gn:officialName "Averøy"@no ;
+	gn:officialName "Averøy"@se ;
+	gn:officialName "Averøy"@fkv .
+
+<15/1557>
+	gn:officialName "Gjemnes"@no ;
+	gn:officialName "Gjemnes"@se ;
+	gn:officialName "Gjemnes"@fkv .
+
+<15/1560>
+	gn:officialName "Tingvoll"@no ;
+	gn:officialName "Tingvoll"@se ;
+	gn:officialName "Tingvoll"@fkv .
+
+<15/1563>
+	gn:officialName "Sunndal"@no ;
+	gn:officialName "Sunndal"@se ;
+	gn:officialName "Sunndal"@fkv .
+
+<15/1566>
+	gn:officialName "Surnadal"@no ;
+	gn:officialName "Surnadal"@se ;
+	gn:officialName "Surnadal"@fkv .
+
+<15/1567>
+	gn:officialName "Rindal"@no ;
+	gn:officialName "Rindal"@se ;
+	gn:officialName "Rindal"@fkv .
+
+<15/1571>
+	gn:officialName "Halsa"@no ;
+	gn:officialName "Halsa"@se ;
+	gn:officialName "Halsa"@fkv .
+
+<15/1573>
+	gn:officialName "Smøla"@no ;
+	gn:officialName "Smøla"@se ;
+	gn:officialName "Smøla"@fkv .
+
+<15/1576>
+	gn:officialName "Aure"@no ;
+	gn:officialName "Aure"@se ;
+	gn:officialName "Aure"@fkv .
+
+<16/1601>
+	gn:officialName "Trondheim"@no ;
+	gn:officialName "Trondheim"@se ;
+	gn:officialName "Trondheim"@fkv .
+
+<16/1612>
+	gn:officialName "Hemne"@no ;
+	gn:officialName "Hemne"@se ;
+	gn:officialName "Hemne"@fkv .
+
+<16/1613>
+	gn:officialName "Snillfjord"@no ;
+	gn:officialName "Snillfjord"@se ;
+	gn:officialName "Snillfjord"@fkv .
+
+<16/1617>
+	gn:officialName "Hitra"@no ;
+	gn:officialName "Hitra"@se ;
+	gn:officialName "Hitra"@fkv .
+
+<16/1620>
+	gn:officialName "Frøya"@no ;
+	gn:officialName "Frøya"@se ;
+	gn:officialName "Frøya"@fkv .
+
+<16/1621>
+	gn:officialName "Ørland"@no ;
+	gn:officialName "Ørland"@se ;
+	gn:officialName "Ørland"@fkv .
+
+<16/1622>
+	gn:officialName "Agdenes"@no ;
+	gn:officialName "Agdenes"@se ;
+	gn:officialName "Agdenes"@fkv .
+
+<16/1624>
+	gn:officialName "Rissa"@no ;
+	gn:officialName "Rissa"@se ;
+	gn:officialName "Rissa"@fkv .
+
+<16/1627>
+	gn:officialName "Bjugn"@no ;
+	gn:officialName "Bjugn"@se ;
+	gn:officialName "Bjugn"@fkv .
+
+<16/1630>
+	gn:officialName "Åfjord"@no ;
+	gn:officialName "Åfjord"@se ;
+	gn:officialName "Åfjord"@fkv .
+
+<16/1632>
+	gn:officialName "Roan"@no ;
+	gn:officialName "Roan"@se ;
+	gn:officialName "Roan"@fkv .
+
+<16/1633>
+	gn:officialName "Osen"@no ;
+	gn:officialName "Osen"@se ;
+	gn:officialName "Osen"@fkv .
+
+<16/1634>
+	gn:officialName "Oppdal"@no ;
+	gn:officialName "Oppdal"@se ;
+	gn:officialName "Oppdal"@fkv .
+
+<16/1635>
+	gn:officialName "Rennebu"@no ;
+	gn:officialName "Rennebu"@se ;
+	gn:officialName "Rennebu"@fkv .
+
+<16/1636>
+	gn:officialName "Meldal"@no ;
+	gn:officialName "Meldal"@se ;
+	gn:officialName "Meldal"@fkv .
+
+<16/1638>
+	gn:officialName "Orkdal"@no ;
+	gn:officialName "Orkdal"@se ;
+	gn:officialName "Orkdal"@fkv .
+
+<16/1640>
+	gn:officialName "Røros"@no ;
+	gn:officialName "Røros"@se ;
+	gn:officialName "Røros"@fkv .
+
+<16/1644>
+	gn:officialName "Holtålen"@no ;
+	gn:officialName "Holtålen"@se ;
+	gn:officialName "Holtålen"@fkv .
+
+<16/1648>
+	gn:officialName "Midtre Gauldal"@no ;
+	gn:officialName "Midtre Gauldal"@se ;
+	gn:officialName "Midtre Gauldal"@fkv .
+
+<16/1653>
+	gn:officialName "Melhus"@no ;
+	gn:officialName "Melhus"@se ;
+	gn:officialName "Melhus"@fkv .
+
+<16/1657>
+	gn:officialName "Skaun"@no ;
+	gn:officialName "Skaun"@se ;
+	gn:officialName "Skaun"@fkv .
+
+<16/1662>
+	gn:officialName "Klæbu"@no ;
+	gn:officialName "Klæbu"@se ;
+	gn:officialName "Klæbu"@fkv .
+
+<16/1663>
+	gn:officialName "Malvik"@no ;
+	gn:officialName "Malvik"@se ;
+	gn:officialName "Malvik"@fkv .
+
+<16/1664>
+	gn:officialName "Selbu"@no ;
+	gn:officialName "Selbu"@se ;
+	gn:officialName "Selbu"@fkv .
+
+<16/1665>
+	gn:officialName "Tydal"@no ;
+	gn:officialName "Tydal"@se ;
+	gn:officialName "Tydal"@fkv .
+
+<17/1702>
+	gn:officialName "Steinkjer"@no ;
+	gn:officialName "Steinkjer"@se ;
+	gn:officialName "Steinkjer"@fkv .
+
+<17/1703>
+	gn:officialName "Namsos"@no ;
+	gn:officialName "Namsos"@se ;
+	gn:officialName "Namsos"@fkv .
+
+<17/1711>
+	gn:officialName "Meråker"@no ;
+	gn:officialName "Meråker"@se ;
+	gn:officialName "Meråker"@fkv .
+
+<17/1714>
+	gn:officialName "Stjørdal"@no ;
+	gn:officialName "Stjørdal"@se ;
+	gn:officialName "Stjørdal"@fkv .
+
+<17/1717>
+	gn:officialName "Frosta"@no ;
+	gn:officialName "Frosta"@se ;
+	gn:officialName "Frosta"@fkv .
+
+<17/1718>
+	gn:officialName "Leksvik"@no ;
+	gn:officialName "Leksvik"@se ;
+	gn:officialName "Leksvik"@fkv .
+
+<17/1719>
+	gn:officialName "Levanger"@no ;
+	gn:officialName "Levanger"@se ;
+	gn:officialName "Levanger"@fkv .
+
+<17/1721>
+	gn:officialName "Verdal"@no ;
+	gn:officialName "Verdal"@se ;
+	gn:officialName "Verdal"@fkv .
+
+<17/1723>
+	gn:officialName "Mosvik"@no ;
+	gn:officialName "Mosvik"@se ;
+	gn:officialName "Mosvik"@fkv .
+
+<17/1724>
+	gn:officialName "Verran"@no ;
+	gn:officialName "Verran"@se ;
+	gn:officialName "Verran"@fkv .
+
+<17/1725>
+	gn:officialName "Namdalseid"@no ;
+	gn:officialName "Namdalseid"@se ;
+	gn:officialName "Namdalseid"@fkv .
+
+<17/1729>
+	gn:officialName "Inderøy"@no ;
+	gn:officialName "Inderøy"@se ;
+	gn:officialName "Inderøy"@fkv .
+
+<17/1736>
+	gn:officialName "Snåsa"@no ;
+	gn:officialName "Snåase"@se ;
+	gn:officialName "Snåsa"@fkv .
+
+<17/1738>
+	gn:officialName "Lierne"@no ;
+	gn:officialName "Lierne"@se ;
+	gn:officialName "Lierne"@fkv .
+
+<17/1739>
+	gn:officialName "Røyrvik"@no ;
+	gn:officialName "Røyrvik"@se ;
+	gn:officialName "Røyrvik"@fkv .
+
+<17/1740>
+	gn:officialName "Namsskogan"@no ;
+	gn:officialName "Namsskogan"@se ;
+	gn:officialName "Namsskogan"@fkv .
+
+<17/1742>
+	gn:officialName "Grong"@no ;
+	gn:officialName "Grong"@se ;
+	gn:officialName "Grong"@fkv .
+
+<17/1743>
+	gn:officialName "Høylandet"@no ;
+	gn:officialName "Høylandet"@se ;
+	gn:officialName "Høylandet"@fkv .
+
+<17/1744>
+	gn:officialName "Overhalla"@no ;
+	gn:officialName "Overhalla"@se ;
+	gn:officialName "Overhalla"@fkv .
+
+<17/1748>
+	gn:officialName "Fosnes"@no ;
+	gn:officialName "Fosnes"@se ;
+	gn:officialName "Fosnes"@fkv .
+
+<17/1749>
+	gn:officialName "Flatanger"@no ;
+	gn:officialName "Flatanger"@se ;
+	gn:officialName "Flatanger"@fkv .
+
+<17/1750>
+	gn:officialName "Vikna"@no ;
+	gn:officialName "Vikna"@se ;
+	gn:officialName "Vikna"@fkv .
+
+<17/1751>
+	gn:officialName "Nærøy"@no ;
+	gn:officialName "Nærøy"@se ;
+	gn:officialName "Nærøy"@fkv .
+
+<17/1755>
+	gn:officialName "Leka"@no ;
+	gn:officialName "Leka"@se ;
+	gn:officialName "Leka"@fkv .
+
+<18/1804>
+	gn:officialName "Bodø"@no ;
+	gn:officialName "Bådåddjo"@se ;
+	gn:officialName "Bodø"@fkv .
+
+<18/1805>
+	gn:officialName "Narvik"@no ;
+	gn:officialName "Narviika"@se ;
+	gn:officialName "Narvik"@fkv .
+
+<18/1811>
+	gn:officialName "Bindal"@no ;
+	gn:officialName "Bindal"@se ;
+	gn:officialName "Bindal"@fkv .
+
+<18/1812>
+	gn:officialName "Sømna"@no ;
+	gn:officialName "Sømna"@se ;
+	gn:officialName "Sømna"@fkv .
+
+<18/1813>
+	gn:officialName "Brønnøy"@no ;
+	gn:officialName "Brønnøy"@se ;
+	gn:officialName "Brønnøy"@fkv .
+
+<18/1815>
+	gn:officialName "Vega"@no ;
+	gn:officialName "Vega"@se ;
+	gn:officialName "Vega"@fkv .
+
+<18/1816>
+	gn:officialName "Vevelstad"@no ;
+	gn:officialName "Vevelstad"@se ;
+	gn:officialName "Vevelstad"@fkv .
+
+<18/1818>
+	gn:officialName "Herøy"@no ;
+	gn:officialName "Herøy"@se ;
+	gn:officialName "Herøy"@fkv .
+
+<18/1820>
+	gn:officialName "Alstahaug"@no ;
+	gn:officialName "Alstahaug"@se ;
+	gn:officialName "Alstahaug"@fkv .
+
+<18/1822>
+	gn:officialName "Leirfjord"@no ;
+	gn:officialName "Leirfjord"@se ;
+	gn:officialName "Leirfjord"@fkv .
+
+<18/1824>
+	gn:officialName "Vefsn"@no ;
+	gn:officialName "Vefsn"@se ;
+	gn:officialName "Vefsn"@fkv .
+
+<18/1825>
+	gn:officialName "Grane"@no ;
+	gn:officialName "Gaala"@se ;
+	gn:officialName "Grane"@fkv .
+
+<18/1826>
+	gn:officialName "Hattfjelldal"@no ;
+	gn:officialName "Aarborte"@se ;
+	gn:officialName "Hattfjelldal"@fkv .
+
+<18/1827>
+	gn:officialName "Dønna"@no ;
+	gn:officialName "Dønna"@se ;
+	gn:officialName "Dønna"@fkv .
+
+<18/1828>
+	gn:officialName "Nesna"@no ;
+	gn:officialName "Nesna"@se ;
+	gn:officialName "Nesna"@fkv .
+
+<18/1832>
+	gn:officialName "Hemnes"@no ;
+	gn:officialName "Hemnes"@se ;
+	gn:officialName "Hemnes"@fkv .
+
+<18/1833>
+	gn:officialName "Rana"@no ;
+	gn:officialName "Rana"@se ;
+	gn:officialName "Rana"@fkv .
+
+<18/1834>
+	gn:officialName "Lurøy"@no ;
+	gn:officialName "Lurøy"@se ;
+	gn:officialName "Lurøy"@fkv .
+
+<18/1835>
+	gn:officialName "Træna"@no ;
+	gn:officialName "Træna"@se ;
+	gn:officialName "Træna"@fkv .
+
+<18/1836>
+	gn:officialName "Rødøy"@no ;
+	gn:officialName "Rødøy"@se ;
+	gn:officialName "Rødøy"@fkv .
+
+<18/1837>
+	gn:officialName "Meløy"@no ;
+	gn:officialName "Meløy"@se ;
+	gn:officialName "Meløy"@fkv .
+
+<18/1838>
+	gn:officialName "Gildeskål"@no ;
+	gn:officialName "Gildeskål"@se ;
+	gn:officialName "Gildeskål"@fkv .
+
+<18/1839>
+	gn:officialName "Beiarn"@no ;
+	gn:officialName "Báidár"@se ;
+	gn:officialName "Beiarn"@fkv .
+
+<18/1840>
+	gn:officialName "Saltdal"@no ;
+	gn:officialName "Saltdal"@se ;
+	gn:officialName "Saltdal"@fkv .
+
+<18/1841>
+	gn:officialName "Fauske"@no ;
+	gn:officialName "Fuossko"@se ;
+	gn:officialName "Fauske"@fkv .
+
+<18/1845>
+	gn:officialName "Sørfold"@no ;
+	gn:officialName "Sørfold"@se ;
+	gn:officialName "Sørfold"@fkv .
+
+<18/1848>
+	gn:officialName "Steigen"@no ;
+	gn:officialName "Stájggo"@se ;
+	gn:officialName "Steigen"@fkv .
+
+<18/1849>
+	gn:officialName "Hamarøy"@no ;
+	gn:officialName "Hábmer"@se ;
+	gn:officialName "Hamarøy"@fkv .
+
+<18/1850>
+	gn:officialName "Tysfjord"@no ;
+	gn:officialName "Divtasvuodna"@se ;
+	gn:officialName "Tiitisvuono"@fkv .
+
+<18/1851>
+	gn:officialName "Lødingen"@no ;
+	gn:officialName "Lodegat"@se ;
+	gn:officialName "Lødingen"@fkv .
+
+<18/1852>
+	gn:officialName "Tjeldsund"@no ;
+	gn:officialName "Dielddanuorri"@se ;
+	gn:officialName "Tjeldsund"@fkv .
+
+<18/1853>
+	gn:officialName "Evenes"@no ;
+	gn:officialName "Evenášši"@se ;
+	gn:officialName "Evenes"@fkv .
+
+<18/1854>
+	gn:officialName "Ballangen"@no ;
+	gn:officialName "Bálat"@se ;
+	gn:officialName "Ballangen"@fkv .
+
+<18/1856>
+	gn:officialName "Røst"@no ;
+	gn:officialName "Røst"@se ;
+	gn:officialName "Røst"@fkv .
+
+<18/1857>
+	gn:officialName "Værøy"@no ;
+	gn:officialName "Værøy"@se ;
+	gn:officialName "Værøy"@fkv .
+
+<18/1859>
+	gn:officialName "Flakstad"@no ;
+	gn:officialName "Flakstad"@se ;
+	gn:officialName "Flakstad"@fkv .
+
+<18/1860>
+	gn:officialName "Vestvågøy"@no ;
+	gn:officialName "Vestvågøy"@se ;
+	gn:officialName "Vestvågøy"@fkv .
+
+<18/1865>
+	gn:officialName "Vågan"@no ;
+	gn:officialName "Vågan"@se ;
+	gn:officialName "Vågan"@fkv .
+
+<18/1866>
+	gn:officialName "Hadsel"@no ;
+	gn:officialName "Hadsel"@se ;
+	gn:officialName "Hadsel"@fkv .
+
+<18/1867>
+	gn:officialName "Bø"@no ;
+	gn:officialName "Bø"@se ;
+	gn:officialName "Bø"@fkv .
+
+<18/1868>
+	gn:officialName "Øksnes"@no ;
+	gn:officialName "Øksnes"@se ;
+	gn:officialName "Øksnes"@fkv .
+
+<18/1870>
+	gn:officialName "Sortland"@no ;
+	gn:officialName "Sortland"@se ;
+	gn:officialName "Sortland"@fkv .
+
+<18/1871>
+	gn:officialName "Andøy"@no ;
+	gn:officialName "Ánddasuolu"@se ;
+	gn:officialName "Andøy"@fkv .
+
+<18/1874>
+	gn:officialName "Moskenes"@no ;
+	gn:officialName "Moskenes"@se ;
+	gn:officialName "Moskenes"@fkv .
+
+<19/1901>
+	gn:officialName "Harstad"@no ;
+	gn:officialName "Harstad"@se ;
+	gn:officialName "Harstad"@fkv .
+
+<19/1902>
+	gn:officialName "Tromsø"@no ;
+	gn:officialName "Romsa"@se ;
+	gn:officialName "Tromssa"@fkv .
+
+<19/1911>
+	gn:officialName "Kvæfjord"@no ;
+	gn:officialName "Giehtavuotna"@se ;
+	gn:officialName "Kvæfjord"@fkv .
+
+<19/1913>
+	gn:officialName "Skånland"@no ;
+	gn:officialName "Skánit"@se ;
+	gn:officialName "Skånland"@fkv .
+
+<19/1915>
+	gn:officialName "Bjarkøy"@no ;
+	gn:officialName "Bjarkøy"@se ;
+	gn:officialName "Bjarkøy"@fkv .
+
+<19/1917>
+	gn:officialName "Ibestad"@no ;
+	gn:officialName "Ivvárstáđit"@se ;
+	gn:officialName "Ibestad"@fkv .
+
+<19/1919>
+	gn:officialName "Gratangen"@no ;
+	gn:officialName "Rivtták"@se ;
+	gn:officialName "Gratangen"@fkv .
+
+<19/1920>
+	gn:officialName "Lavangen"@no ;
+	gn:officialName "Loabát"@se ;
+	gn:officialName "Lavangen"@fkv .
+
+<19/1922>
+	gn:officialName "Bardu"@no ;
+	gn:officialName "Beardu"@se ;
+	gn:officialName "Perttula"@fkv .
+
+<19/1923>
+	gn:officialName "Salangen"@no ;
+	gn:officialName "Siellat"@se ;
+	gn:officialName "Salangen"@fkv .
+
+<19/1924>
+	gn:officialName "Målselv"@no ;
+	gn:officialName "Málatvuopmi"@se ;
+	gn:officialName "Målselv"@fkv .
+
+<19/1925>
+	gn:officialName "Sørreisa"@no ;
+	gn:officialName "Ráisavuotna"@se ;
+	gn:officialName "Sørreisa"@fkv .
+
+<19/1926>
+	gn:officialName "Dyrøy"@no ;
+	gn:officialName "Divrrát"@se ;
+	gn:officialName "Dyrøy"@fkv .
+
+<19/1927>
+	gn:officialName "Tranøy"@no ;
+	gn:officialName "Ránáidsuolu"@se ;
+	gn:officialName "Tranøy"@fkv .
+
+<19/1928>
+	gn:officialName "Torsken"@no ;
+	gn:officialName "Doasku"@se ;
+	gn:officialName "Torsken"@fkv .
+
+<19/1929>
+	gn:officialName "Berg"@no ;
+	gn:officialName "Birgi"@se ;
+	gn:officialName "Berg"@fkv .
+
+<19/1931>
+	gn:officialName "Lenvik"@no ;
+	gn:officialName "Leaŋgáviika"@se ;
+	gn:officialName "Lenvik"@fkv .
+
+<19/1933>
+	gn:officialName "Balsfjord"@no ;
+	gn:officialName "Báhccavuotna"@se ;
+	gn:officialName "Paatsivuono"@fkv .
+
+<19/1936>
+	gn:officialName "Karlsøy"@no ;
+	gn:officialName "Gálsa"@se ;
+	gn:officialName "Kalsa"@fkv .
+
+<19/1938>
+	gn:officialName "Lyngen"@no ;
+	gn:officialName "Ivgu"@se ;
+	gn:officialName "Yykeä"@fkv .
+
+<19/1939>
+	gn:officialName "Storfjord"@no ;
+	gn:officialName "Omasvuotna"@se ;
+	gn:officialName "Isovuono"@fkv .
+
+<19/1940>
+	gn:officialName "Kåfjord"@no ;
+	gn:officialName "Gáivuotna"@se ;
+	gn:officialName "Kaivuono"@fkv .
+
+<19/1941>
+	gn:officialName "Skjervøy"@no ;
+	gn:officialName "Skiervá"@se ;
+	gn:officialName "Kierua"@fkv .
+
+<19/1942>
+	gn:officialName "Nordreisa"@no ;
+	gn:officialName "Ráisa"@se ;
+	gn:officialName "Raisi"@fkv .
+
+<19/1943>
+	gn:officialName "Kvænangen"@no ;
+	gn:officialName "Návuotna"@se ;
+	gn:officialName "Naavuono"@fkv .
+
+<20/2002>
+	gn:officialName "Vardø"@no ;
+	gn:officialName "Várggát"@se ;
+	gn:officialName "Vuorea"@fkv .
+
+<20/2003>
+	gn:officialName "Vadsø"@no ;
+	gn:officialName "Čáhcesuolu"@se ;
+	gn:officialName "Vesisaari"@fkv .
+
+<20/2004>
+	gn:officialName "Hammerfest"@no ;
+	gn:officialName "Hámmárfeasta"@se ;
+	gn:officialName "Hammerfesti"@fkv .
+
+<20/2011>
+	gn:officialName "Kautokeino"@no ;
+	gn:officialName "Guovdageaidnu"@se ;
+	gn:officialName "Koutokeino"@fkv .
+
+<20/2012>
+	gn:officialName "Alta"@no ;
+	gn:officialName "Áltá"@se ;
+	gn:officialName "Alattio"@fkv .
+
+<20/2014>
+	gn:officialName "Loppa"@no ;
+	gn:officialName "Láhppi"@se ;
+	gn:officialName "Lappea"@fkv .
+
+<20/2015>
+	gn:officialName "Hasvik"@no ;
+	gn:officialName "Ákŋoluokta"@se ;
+	gn:officialName "Hasviika"@fkv .
+
+<20/2017>
+	gn:officialName "Kvalsund"@no ;
+	gn:officialName "Fálesnuorri"@se ;
+	gn:officialName "Valasnuora"@fkv .
+
+<20/2018>
+	gn:officialName "Måsøy"@no ;
+	gn:officialName "Muosát"@se ;
+	gn:officialName "Moseija"@fkv .
+
+<20/2019>
+	gn:officialName "Nordkapp"@no ;
+	gn:officialName "Davvinjárgga"@se ;
+	gn:officialName "Kappa"@fkv .
+
+<20/2020>
+	gn:officialName "Porsanger"@no ;
+	gn:officialName "Porsáŋgu"@se ;
+	gn:officialName "Porsanki"@fkv .
+
+<20/2021>
+	gn:officialName "Karasjok"@no ;
+	gn:officialName "Kárášjohka"@se ;
+	gn:officialName "Kaarasjoki"@fkv .
+
+<20/2022>
+	gn:officialName "Lebesby"@no ;
+	gn:officialName "Davvesiida"@se ;
+	gn:officialName "Lebesby"@fkv .
+
+<20/2023>
+	gn:officialName "Gamvik"@no ;
+	gn:officialName "Gáŋgaviika"@se ;
+	gn:officialName "Gamvik"@fkv .
+
+<20/2024>
+	gn:officialName "Berlevåg"@no ;
+	gn:officialName "Bearalváhki"@se ;
+	gn:officialName "Berlevåg"@fkv .
+
+<20/2025>
+	gn:officialName "Tana"@no ;
+	gn:officialName "Deatnu"@se ;
+	gn:officialName "Teno"@fkv .
+
+<20/2027>
+	gn:officialName "Nesseby"@no ;
+	gn:officialName "Unjárga"@se ;
+	gn:officialName "Uuniemi"@fkv .
+
+<20/2028>
+	gn:officialName "Båtsfjord"@no ;
+	gn:officialName "Báhcavuotna"@se ;
+	gn:officialName "Båtsfjord"@fkv .
+
+<20/2030>
+	gn:officialName "Sør-Varanger"@no ;
+	gn:officialName "Mátta-Várjjat"@se ;
+	gn:officialName "Etelä-Varenki"@fkv .
+
+<21/2111>
+	gn:officialName "Spitsbergen"@no ;
+	gn:officialName "Spitsbergen"@se ;
+	gn:officialName "Pispärkki"@fkv .
+
+<21/2121>
+	gn:officialName "Bjørnøya"@no ;
+	gn:officialName "Karhusaari"@fkv .
+
+<21/2131>
+	gn:officialName "Hopen"@no ;
+	gn:officialName "Hopen"@fkv .
+
+<22/2211>
+	gn:officialName "Jan Mayen"@no ;
+	gn:officialName "Jan Mayen"@se ;
+	gn:officialName "Jan Mayen"@fkv .
+
+</dumps/kommune-navn.ttl> a cc:Work ;
+	cc:license <http://creativecommons.org/licenses/by/3.0/> ;
+	cc:attributionName "Erik Bolstad" ;
+	cc:attributionURL <http://www.erikbolstad.no/geo/noreg/kommunar/> .
